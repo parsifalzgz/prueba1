@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+﻿:Home
 
-You can use the [editor on GitHub](https://github.com/parsifalzgz/prueba1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+@description my description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+@Body
+Home Page
+=========
 
-### Markdown
+![kitten](http://placekitten.com/g/1099/150)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+@News
+### News
+* Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+* raesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+* Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parsifalzgz/prueba1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+@Links
+### Links
+* [BBC News](http://bbc.co.uk/news)
+* [The Guardian](http://guardian.co.uk)
+* [Google News](http://news.google.com)
+* [new link](http://example.com)
